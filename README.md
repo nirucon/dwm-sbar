@@ -1,4 +1,4 @@
-# sdwmbar
+# dwm-sbar
 
 Simple status bar scripts for dwm.
 
