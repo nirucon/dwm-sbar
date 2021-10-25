@@ -1,12 +1,8 @@
 #!/usr/bin/env bash
 
-# A modular status bar for dwm
-# Joe Standring <git@joestandring.com>
-# GNU GPLv3
+# dep: xorg-xsetroot
 
-# dependencies: xorg-xsetroot
-
-# store the directory of the main script (sdwmbar)
+# script dir (dwm-sbar)
 LOC=$(readlink -f "$0")
 DIR=$(dirname "$LOC")
 
